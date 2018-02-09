@@ -1,6 +1,7 @@
-# uBlockPurityCosmeticFiltering
+# uBlock Purity Cosmetic Filtering
 
-This project contains a set of uBlock Origin rules designed to remove unneeded elements from popular websites that are inserted as a distraction
+This project contains a set of uBlock Origin rules designed to remove unneeded elements from popular websites.
+
 ## How to install
 
 1. Menu -> More Tools -> Extensions
